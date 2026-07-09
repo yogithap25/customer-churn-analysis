@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.vscode/
+.DS_Store
+Thumbs.db
+
+dashboard/PowerBI_Build_Guide.md
+
+dataset/telco_churn.csv
+
+reports/
+
+
+sql/churn.db
+sql/churn_queries.sql
