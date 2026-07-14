@@ -47,7 +47,7 @@ business problem → requirements → data understanding → cleaning → analys
 
 ## 📸 Dashboard Preview
 
-![Executive Dashboard](dashboard/dashboard_preview.png)
+![Executive Dashboard](dashboard/dashboard_preview1.png)
 
 Interactive prototype: [`dashboard/executive_dashboard_prototype.html`](dashboard/executive_dashboard_prototype.html)
 
